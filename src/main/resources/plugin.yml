@@ -1,0 +1,4 @@
+name: SpiGetOpt
+version: '${version}'
+main: me.AnFun.SpiGetOpt
+api-version: 1.18
